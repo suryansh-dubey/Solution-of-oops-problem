@@ -1,0 +1,10 @@
+class KidUsers implements LibraryUser {
+    int age;
+    String bookType;
+
+}
+
+class AdultUser implements LibraryUser {
+    int age;
+    String bookType;
+}
